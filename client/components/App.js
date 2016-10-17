@@ -4,9 +4,11 @@ import NavigationBar from './NavigationBar';
 const App = React.createClass({
 	render() {
 		return (
-		<div className="ui container">
+		<div>
 			<NavigationBar />
-			{this.props.children}
+			<div className="ui container">
+				{this.props.children}
+			</div>
 		</div>
 	);
 	}
