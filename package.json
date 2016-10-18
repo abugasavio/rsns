@@ -25,6 +25,7 @@
     "redux": "^3.6.0",
     "redux-thunk": "^2.1.0",
     "semantic-ui-react": "^0.56.1",
+    "shortid": "^2.2.6",
     "thunk": "0.0.1",
     "validator": "^6.1.0",
     "webpack": "^1.13.2"
