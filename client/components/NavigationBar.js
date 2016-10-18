@@ -16,6 +16,9 @@ const NavigationBar = React.createClass({
 	        	<Menu.Item>
 	        		<Link to='/signup'>Signup</Link>
 	        	</Menu.Item>
+	        	<Menu.Item>
+							<Link to='/login'>Login</Link>
+	        	</Menu.Item>
 	        </Menu.Menu>
         </Menu>
 
